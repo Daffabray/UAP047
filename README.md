@@ -24,4 +24,18 @@ Model yang digunakan yaitu VGG16 dan CNN
 
 ![Grafik CNN](https://github.com/Daffabray/UAP047/blob/main/cnn.png)
 
+Grafik CNN
+
+Accuracy: Training dan Validation Accuracy meningkat konsisten, menunjukkan model belajar dan  dengan baik.
+Loss: Training dan Validation Loss menurun signifikan dengan perbedaan kecil, menandakan tidak ada overfitting.
+
+Grafik VGG16
+
+Accuracy: Training Accuracy cepat mencapai 1, Validation Accuracy tinggi dan stabil.
+Loss: Training Loss turun drastis mendekati 0, Validation Loss rendah dan stabil.
+Perbandingan
+
+VGG16 lebih cepat mencapai akurasi tinggi dan loss rendah.
+CNN lebih stabil dan fleksibel, cocok untuk penyesuaian kasus tertentu.
+
 

@@ -62,10 +62,10 @@ Konsistensi Antar Kelas: VGG16 lebih konsisten dengan skor tinggi untuk semua ke
 
 ## Tampilan WEB
 
-![Tampilan2].(https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(103).png)
+![Tampilan2](https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(103).png)
 
 
-![Tampilan1].(https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(104).png)
+![Tampilan1](https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(104).png)
 
 
 

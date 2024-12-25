@@ -59,3 +59,13 @@ Kelebihan dan Kekurangan: Model CNN menunjukkan kemampuan yang baik, tetapi tanp
 Akurasi: VGG16 (99%) lebih unggul dibandingkan CNN (90%).
 Konsistensi Antar Kelas: VGG16 lebih konsisten dengan skor tinggi untuk semua kelas.
 
+
+## Tampilan WEB
+
+![Tampilan2].(https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(103).png)
+
+
+![Tampilan1].(https://github.com/Daffabray/UAP047/blob/main/Tampilan/Screenshot%20(104).png)
+
+
+

@@ -18,3 +18,7 @@ Gambar akan diputar secara acak hingga 20 derajat, Gambar dapat digeser secara h
 
 **Modelling** 
 Model yang digunakan yaitu VGG16 dan CNN
+**Grafik Analisa**
+![Grafik VGG16](vgg16.jpg)
+
+

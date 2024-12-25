@@ -22,4 +22,6 @@ Model yang digunakan yaitu VGG16 dan CNN
 **Grafik Analisa**
 ![Grafik VGG16](https://github.com/Daffabray/UAP047/blob/main/vgg16.png)
 
+![Grafik CNN](https://github.com/Daffabray/UAP047/blob/main/cnn.png)
+
 

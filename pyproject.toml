@@ -1,0 +1,16 @@
+[project]
+name = "UAP_daffa"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Daffabray", email = "90074627+Daffabray@users.noreply.github.com"},
+]
+dependencies = ["Streamlit>=1.41.1"]
+requires-python = "==3.10.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+src = "src"

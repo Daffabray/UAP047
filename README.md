@@ -20,9 +20,9 @@ Gambar akan diputar secara acak hingga 20 derajat, Gambar dapat digeser secara h
 Model yang digunakan yaitu VGG16 dan CNN
 
 **Grafik Analisa**
-![Grafik VGG16](https://github.com/Daffabray/UAP047/blob/main/vgg16.png)
+![Grafik VGG16](https://github.com/Daffabray/UAP047/blob/main/Grafik%20Akurasi/vgg16.png)
 
-![Grafik CNN](https://github.com/Daffabray/UAP047/blob/main/cnn.png)
+![Grafik CNN](https://github.com/Daffabray/UAP047/blob/main/Grafik%20Akurasi/cnn.png)
 
 **Grafik CNN**
 
@@ -38,7 +38,7 @@ Perbandingan
 VGG16 lebih cepat mencapai akurasi tinggi dan loss rendah.
 CNN lebih stabil dan fleksibel, cocok untuk penyesuaian kasus tertentu.
 
-![Kalsifikasi Report](https://github.com/Daffabray/UAP047/blob/main/Screenshot%20(102).png)
+![Kalsifikasi Report](https://github.com/Daffabray/UAP047/blob/main/Grafik%20Akurasi/Screenshot%20(102).png)
 
 Berdasarkan laporan klasifikasi untuk model VGG16 dan CNN:
 

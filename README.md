@@ -93,6 +93,8 @@ Konteks Penggunaan: VGG16 lebih cocok untuk aplikasi yang membutuhkan hasil cepa
 
 ## Link Model
 
+Link Web : [WEBSTREAMLIT](http://localhost:8501/)
+
 Link Pembuatan Model : [Colab](https://colab.research.google.com/drive/17ZHgzijLX2j9hNGIhZXdsgbpn1hPYBxr?usp=sharing)
 
 VGG16 : [VGG16](https://drive.google.com/file/d/1FtAHDXYGWxYdS3k_lPoS4x_Rt-OO3DkG/view?usp=sharing)
